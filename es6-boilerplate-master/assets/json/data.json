@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "name": "Acheron",
+      "img": "Odaci Naught.png",
+      "information": { "strength": 100, "lives": 10 },
+      "text": "Stream forth... the gleam of old blades."
+    },
+    {
+      "name": "Shenhe",
+      "img": "Calamity Queller.jpeg",
+      "information": { "strength": 90, "lives": 5 },
+      "text": "By ordinance divine!"
+    },
+    {
+      "name": "Yinlin",
+      "img": "Stringmaster.jpg",
+      "information": { "strength": 80, "lives": 4 },
+      "text": "I've had enough. Get lost."
+    }
+  ]
+}
