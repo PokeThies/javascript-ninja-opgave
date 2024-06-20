@@ -63,7 +63,7 @@ class Card {
             let mLives = document.querySelector("#lives");
             mLives.textContent = addInfo.lives;
     
-            card.addEventListener("click", () => new Card (CC,data));
+           
         }
   
       }); 
